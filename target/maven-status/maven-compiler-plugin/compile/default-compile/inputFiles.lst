@@ -1,0 +1,14 @@
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/dto/Item.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/manager/model/QyWechatAccessTokenResponseModel.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/manager/model/WeChatMessageModel.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/controller/SampleApiController.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/manager/model/QyWechatCode2SessionResponseModel.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/util/RestTemplateUtil.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/util/HttpClientUtil.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/common/HttpLoggingInterceptor.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/job/HuaShanJob.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/dto/Group.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/manager/WeChatManager.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/ApiApplication.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/enums/RestTemplateEnum.java
+/Users/yinyansheng/github.com/yugo_huashan/src/main/java/com/yugo/huashan/service/HuaShanService.java
